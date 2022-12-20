@@ -75,5 +75,6 @@ public class Employee {
     public String toString() {
         return "Номер в реестре: " + id + ", " + "Имя сотрудника: " + name + ", " + "Отдел: " + department + ", " + "Заработная плата: " + salary + " рублей";
     }
+
 }
 
