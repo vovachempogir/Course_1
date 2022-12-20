@@ -15,6 +15,7 @@ public class Main {
         EmployeeService.calculationMaxSalaryPrint(employees);
         EmployeeService.calculationAverageSalaryPrint(employees);
         EmployeeService.allNameEmployeePrint(employees);
+
     }
 
 
